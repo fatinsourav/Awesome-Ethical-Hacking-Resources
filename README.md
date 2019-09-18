@@ -17,6 +17,7 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 6.	Hacking: The Art of Exploitation, 2nd Edition
 7.	Web Hacking 101
 8.	OWASP Testing Guide (A must read for web application developers and penetration testers)
+9.The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition by Dafydd Stuttard
 
 
 ## Learning Platforms to Sharpen Your Skills
